@@ -12,8 +12,11 @@ CSV Data Import
 **Database Structure**
 The database consists of 11 interconnected tables, organized into key business domains:
 **Sales**: Invoice, InvoiceLine
-**Inventory:** Track, Album, Artist, Genre, MediaType
+ 
+ **Inventory:** Track, Album, Artist, Genre, MediaType
+
 **Customers & Employees**: Customer, Employee
+
 **Others:** Playlist, PlaylistTrack
 All tables are connected using Primary Keys (PK) and Foreign Keys (FK) to ensure data consistency and integrity.
 
