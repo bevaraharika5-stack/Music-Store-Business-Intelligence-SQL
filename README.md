@@ -24,7 +24,7 @@ All tables are connected using Primary Keys (PK) and Foreign Keys (FK) to ensure
 **Business Questions & Technical Solutions**
 The analysis is structured into three levels of complexity, demonstrating a clear progression in data exploration and SQL proficiency:
 
-1. **Operational Foundations** 
+**1.Operational Foundations** 
 Hierarchy Analysis: Identified the most senior employee based on job title to understand the organizational structure.
 Market Analysis: Determined which countries generate the highest number of invoices to highlight the most active markets.
 Top Location Identification: Found the city with the highest total revenue to recommend the best location for hosting a promotional Music Festival.
