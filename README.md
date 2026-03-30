@@ -2,6 +2,8 @@
 
 **📌 Overview**
 This project focuses on analyzing a Music Store database using SQL to extract meaningful business insights. By working with a fully relational database, the project demonstrates how data can be transformed into actionable intelligence for decision-making.
+
+
 **⚙️ Tools & Technologies**
 SQL (MySQL)
 Relational Database Management System (RDBMS)
@@ -32,6 +34,8 @@ Regional Preferences: Applied Window Functions to identify the most popular genr
 High-Value Customer Identification: Used advanced query logic to find the top customer in every country, enabling targeted VIP engagement and loyalty programs.
 
 **Project Structure**
-music_store.sql
+* music_store.sql: Complete set of refined SQL queries used for analysis.
+* EER_Diagram.png :Graphical representation illustrating table structures and their relationships within the database.
 
+<img width="924" height="938" alt="EER_Diagram" src="https://github.com/user-attachments/assets/de9c236c-9e2d-4136-a14d-14be9fea5e94" />
 
